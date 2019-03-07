@@ -6,7 +6,7 @@ Outils Python pour cartographier des interconnections spatiales. Nécessite une 
 Cet outil utilise une méthode expérimentale de déplacement d'étiquettes fondée sur un moteur de simulation d'objets physiques.
 
 ## Exemple de résultat
-![alt text](https://github.com/AtelierCartographique/CartoReseauxSpatiaux/result.png)
+![alt text](https://github.com/AtelierCartographique/Cartographie-Statique-Flux-Spatiaux/blob/master/result.png)
 
 ## Bibliothèques Python 3 requises
 * Pyproj
