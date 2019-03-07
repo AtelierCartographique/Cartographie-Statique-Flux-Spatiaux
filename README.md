@@ -1,8 +1,7 @@
 # Cartographie statique de flux (ou de réseaux) spatiaux
 
 ## Description
-Outils Python pour cartographier des interconnections spatiales
-Nécessite une carte, la projection de cette carte au format EPSG, et un tableau de données relationnelle. Veuillez vous référer à l'exemple pour le format du tableau de données.
+Outils Python pour cartographier des interconnections spatiales. Nécessite une carte, la projection de cette carte au format EPSG, et un tableau de données relationnelle. Veuillez vous référer à l'exemple pour le format du tableau de données.
 
 Cet outil utilise une méthode expérimentale de déplacement d'étiquettes fondée sur un moteur de simulation d'objets physiques.
 
