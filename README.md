@@ -4,10 +4,10 @@
 Outils Python pour cartographier des interconnections spatiales. Nécessite une carte, la projection de cette carte au format EPSG, et un tableau de données relationnelle. Veuillez vous référer à l'exemple pour le format du tableau de données.
 
 ## Caractéristiques
-* Construit automatiquement des graphiques en bulles ou pointes de tartes (la ou les couleurs représentes des catégories, et la taille représente la somme des effectifs des catégories)
-* Échelles log base 2, base 10 ou linéraires
-* Utilise une méthode expérimentale de déplacement d'étiquettes fondée sur un moteur de simulation d'objets physiques (débraillable)
-* Calcul et déssine la légende de la carte automatiquement
+* Construit automatiquement des graphiques en bulles ou pointes de tartes (oû les couleurs des bulles représentent des catégories, et leur taille représente la somme des effectifs des catégories);
+* Échelles linéraires ou log (base 2 ou 10);
+* Utilise une méthode expérimentale de déplacement d'étiquettes utilisant un moteur de simulation d'objets physiques (débraillable);
+* Calcule et déssine la légende de la carte automatiquement.
 
 ## Exemple de résultat
 ![alt text](https://github.com/AtelierCartographique/Cartographie-Statique-Flux-Spatiaux/blob/master/images/result.png)
