@@ -3,7 +3,6 @@
 ## Description
 Outils Python pour cartographier des interconnections spatiales. Nécessite une carte, la projection de cette carte au format EPSG, et un tableau de données relationnelle. Veuillez vous référer à l'exemple pour le format du tableau de données.
 
-## Caractéristiques
 * Construit automatiquement des graphiques en bulles ou pointes de tartes (oû les couleurs des bulles représentent des catégories, et leur taille représente la somme des effectifs des catégories);
 * Échelles linéraires ou log (base 2 ou 10);
 * Utilise une méthode expérimentale de déplacement d'étiquettes utilisant un moteur de simulation d'objets physiques (débraillable);
