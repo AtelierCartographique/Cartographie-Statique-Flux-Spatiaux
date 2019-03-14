@@ -9,7 +9,7 @@ Outils Python pour cartographier des interconnections spatiales. Nécessite une 
 * Utilise une méthode expérimentale de déplacement d'étiquettes utilisant un moteur de simulation d'objets physiques (débraillable);
 * Calcule et déssine la légende de la carte automatiquement.
 
-## Exemple de résultat
+## Exemples de résultats
 ![alt text](https://github.com/AtelierCartographique/Cartographie-Statique-Flux-Spatiaux/blob/master/images/result.png)
 ![alt text](https://github.com/AtelierCartographique/Cartographie-Statique-Flux-Spatiaux/blob/master/images/NFootprint-Reasons_travel_EN_Size-0.008-0.04_Scale-Linear_Palette-Set2.jpg)
 ![alt text](https://github.com/AtelierCartographique/Cartographie-Statique-Flux-Spatiaux/blob/master/images/NFootprint_etudiants_EN_Size-0.01-0.05_Scale-Linear_Palette-Set2.jpg)
